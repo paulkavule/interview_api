@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pkavule/Projects/Interview/Interview.Api/Interview.Api.csproj": {}
+    "/Users/pkavule/Projects/Interveiw1.0/interview_api/Interview.Api.csproj": {}
   },
   "projects": {
-    "/Users/pkavule/Projects/Interview/Interview.Api/Interview.Api.csproj": {
+    "/Users/pkavule/Projects/Interveiw1.0/interview_api/Interview.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pkavule/Projects/Interview/Interview.Api/Interview.Api.csproj",
+        "projectUniqueName": "/Users/pkavule/Projects/Interveiw1.0/interview_api/Interview.Api.csproj",
         "projectName": "Interview.Api",
-        "projectPath": "/Users/pkavule/Projects/Interview/Interview.Api/Interview.Api.csproj",
+        "projectPath": "/Users/pkavule/Projects/Interveiw1.0/interview_api/Interview.Api.csproj",
         "packagesPath": "/Users/pkavule/.nuget/packages/",
-        "outputPath": "/Users/pkavule/Projects/Interview/Interview.Api/obj/",
+        "outputPath": "/Users/pkavule/Projects/Interveiw1.0/interview_api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pkavule/.nuget/NuGet/NuGet.Config"
@@ -48,6 +48,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.10, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

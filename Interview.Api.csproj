@@ -13,6 +13,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.10" />
+    <PackageReference Include="SQLite" Version="3.13.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,10 +22,15 @@
     <None Remove="Entities\" />
     <None Remove="Repositories\" />
     <None Remove="Services\" />
+    <None Remove="SQLite" />
+    <None Remove="Dtos\" />
+    <None Remove="Utilities\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Repositories\" />
     <Folder Include="Services\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Utilities\" />
   </ItemGroup>
 </Project>

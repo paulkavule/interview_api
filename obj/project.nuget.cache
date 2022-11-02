@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KU79vKmM7nH35Nbti3zf+qKnZX7aYjKwfTHpvLhaZMRlQA5W2OLkpg19n8IN56+UuE779qZtD1E/nmRvwKzTg==",
+  "dgSpecHash": "eHShA9sYgZZLlCc/tUe96yo5d3rNkhx2zD9KdcBTJ5Xt+2z7FVXMd6QQa9S/WW2sbGXsg32v7GvI76JTkDsWDA==",
   "success": true,
-  "projectFilePath": "/Users/pkavule/Projects/Interview/Interview.Api/Interview.Api.csproj",
+  "projectFilePath": "/Users/pkavule/Projects/Interveiw1.0/interview_api/Interview.Api.csproj",
   "expectedPackageFiles": [
     "/Users/pkavule/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/pkavule/.nuget/packages/microsoft.data.sqlite.core/6.0.10/microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
@@ -26,6 +26,7 @@
     "/Users/pkavule/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/pkavule/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/Users/pkavule/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/pkavule/.nuget/packages/sqlite/3.13.0/sqlite.3.13.0.nupkg.sha512",
     "/Users/pkavule/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "/Users/pkavule/.nuget/packages/sqlitepclraw.core/2.0.6/sqlitepclraw.core.2.0.6.nupkg.sha512",
     "/Users/pkavule/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
